@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1heXluIiwiaWQiOiI2NGEzOWM0NjYwN2E4NzRjMzYyZWM1MWQiLCJpYXQiOjE2ODg0NDM5ODd9.9eIDZOd78lp_V2oQ8xgih71MdPxcbM9Vz8mkPkNPHvg
+
+{
+    "title": "mayyn stuyff tiger",
+    "url": "www.hu.com",
+    "author": "bbag",
+    "likes": "119"
+}
